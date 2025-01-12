@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://clars002.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://clars002.github.io/al-folio/sitemap.xml
