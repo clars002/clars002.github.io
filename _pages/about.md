@@ -33,5 +33,6 @@ Please contact me at clars002@odu.edu with details.
 
 Thank you for your time and interest!
 
-See my [resume](https://docs.google.com/document/d/1jW177bBOAfq1ddXZkYiPXGYvQAUtDQlL/edit?usp=sharing&ouid=100863321041232277149&rtpof=true&sd=true)
+See my [resume](https://docs.google.com/document/d/1jW177bBOAfq1ddXZkYiPXGYvQAUtDQlL/edit?usp=sharing&ouid=100863321041232277149&rtpof=true&sd=true)  
+
 Visit my [github](https://github.com/clars002)
