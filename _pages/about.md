@@ -12,17 +12,26 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi there!
-I'm Caelan, a computer science student at Old Dominion University. I graduated with my bachelor's in CS (with a minor in cybersecurity) in Fall 2024, and am currently working on my master's degree (also in CS).
+Hello, and thanks for stopping by!
+I'm Caelan Larsen, a computer science student at Old Dominion University. I graduated with my bachelor's in CS (with a minor in cybersecurity) in Fall 2024, and am currently working on my master's degree (also in CS).
 
-I am broadly interested in software development. I am also making an effort to equip myself with a foundational knowledge of AI, since I figure its relevance will only increase into the future. However, I believe in the importance of depth of understanding, and for that reason make a point not to lean on AI too heavily in my regular workflow.
+I am primarily broadly interested in software development and computer networking. Other subjects of emphasis in my studies have included data science and AI, though my coursework has covered a wide range of other computer science topics, from computer architecture, to operating systems, to cybersecurity ethics.
+As an aside on AI, particularly LLMs, I am generally wary of the possibility of becoming over-reliant on these technologies and limiting the depth of my learning and understanding as a result. Therefore, I make a point to use such aides only occasionally and judiciously in my regular workflow.
 
-I am currently in the middle of switching from VSCode to Neovim. Putting aside the question of how much raw productivity I might gain in the long run from this, the software and the workflow it enables just appeals to me.
-Also, I have been enjoying learning game development (with the Godot Engine, for now) on the side here and there.
-I recently installed Arch Linux on my desktop machine for the first time, using nothing but the Arch wiki as a guide. I'm looking forward to becoming more proficient with Linux using this installation.
+Recently, I have started learning [Neovim](https://neovim.io/). Its hotkey and macro systems, as well as the minimalism of a terminal-based text editor, both appeal to me.
+I also have a particular interest in game development, and have been spending time learning the [Godot Engine](https://godotengine.org/) to that end. Though it is still in its early stages, I am working on a [dungeon crawler roleplaying game](https://github.com/c-lars-02/ember/tree/main) with my two brothers (I apologize in advance for my strange sense of humor--the current "Reggie Dungeon" theming is meant as a joke and not intended to be kept).
+Though I have been using Linux as my daily driver for years now, I recently installed Arch Linux on my desktop machine for the first time. Doing so with nothing but the Arch wiki as a guide was a fun challenge, and I'm looking forward to becoming more proficient with Linux using this installation.
 
-Outside of my studies, I like to spend time practicing Chinese martial arts with my dad, learning the violin, and playing (mostly old) video games. I am especially into Super Smash Bros. Melee, thanks to Project Slippi (My peak rank is gold 1).
+Outside of my studies, I like to spend time practicing Chinese martial arts with my dad (primarily Tai Chi) and playing video games (often older releases from the late 80s to early 2000s). I particularly enjoy the fighting game genre. These games take some commitment to get into, but after the initial learning curve, their beauty and intricacy become apparent. Trying to understand one's human opponent and their intentions throughout the constantly-changing game state is a real art.
+I have dabbled in small electronics soldering and hope to eventually build the requisite skill level to do retro console and computer repairs and modifications (my NES needs some capacitors replaced and I'm hoping to do it myself!).
+Most recently, I have begun learning the violin. As someone with virutally no music experience, this has been challenging, but fun! It's amazing how sensitive the instrument is to the slightest articulation of my arm or hand.
+
+I am currently on the lookout for internship opportunities! I am open-minded in terms of specific roles and responsibilities; I believe every experience is rife with opportunity to learn and grow.
+Above all I am looking to explore career possibilities and build valuable working experience.
+
+Please contact me at clars002@odu.edu with details.
 
 Thank you for your time and interest!
 
-See my [resume](https://docs.google.com/document/d/1b69ufbFxaSX3kxWfkA9YS07-4RhZJoLx/edit?usp=sharing&ouid=100863321041232277149&rtpof=true&sd=true)
+See my [resume](https://docs.google.com/document/d/1jW177bBOAfq1ddXZkYiPXGYvQAUtDQlL/edit?usp=sharing&ouid=100863321041232277149&rtpof=true&sd=true)
+Visit my [github](https://github.com/clars002)
