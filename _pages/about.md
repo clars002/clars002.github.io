@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Hello, and thanks for stopping by!
-I'm Caelan Larsen, a computer science student at Old Dominion University. I graduated with my bachelor's degree in CS (with a minor in cybersecurity) in Fall 2024, and am currently working on my master's degree (also in CS).
+I'm Caelan Larsen, a computer science student at Old Dominion University. I graduated with my bachelor's degree in CS (with a minor in cybersecurity) in Fall 2024, and my master's in CS in December 2025.
 
 I am primarily broadly interested in software development and computer networking. Other subjects of emphasis in my studies have included data science and AI, though my coursework has covered a wide range of other computer science topics, from computer architecture, to operating systems, to cybersecurity ethics.
 
@@ -28,7 +28,7 @@ I particularly enjoy the fighting game genre. Trying to understand one's human o
 I have dabbled in small electronics soldering and hope to eventually build the requisite skill level to do retro console and computer repairs and modifications (my NES needs some capacitors replaced and I'm hoping to do it myself!).
 Most recently, I have begun learning the violin. As someone with virutally no prior music experience, this has been challenging, but fun! It's amazing how sensitive the instrument is to the slightest articulation of my arm, hand, or finger.
 
-I am currently on the lookout for internship opportunities! I am open-minded in terms of specific roles and responsibilities; I believe every experience is rife with opportunity to learn and grow.
+I am currently on the lookout for job and internship opportunities! I am open-minded in terms of specific roles and responsibilities; I believe every experience is rife with opportunity to learn and grow.
 Above all I am looking to explore career possibilities and build valuable working experience.
 
 Please contact me at clars002@odu.edu with details.
